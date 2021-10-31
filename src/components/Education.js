@@ -15,7 +15,7 @@ class Education extends Component {
                                     <th>Certificate</th>
                                     <th>Date</th>
                                     <th>Organization</th>
-                                    <th>Details</th>
+                                    <th>Image</th>
                                 </tr>
                             </thead>
                             <tbody>
